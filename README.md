@@ -14,3 +14,9 @@ As atividades foram preparadas para serem executadas [nesta versão](https://www
 Apesar dos enunciados estarem com as instruções de instalação erradas (usar o link da versão acima), o manejamento das bibliotecas e execução dos exercícios está correto.
 
 **ATENÇÃO:** O Eclipse não deixará que um mesmo projeto seja importado mais de uma vez. Caso haja um erro na seleção de pastas ou for necessário o reinício do processo de importação, apague o projeto do workspace, ou comece o projeto em um workspace diferente.
+
+## Exercícios
+
+* [Testes Unitários](/Enunciados/Instruções%20Teste%20de%20Unidade%20com%20JUnit.pdf);
+  * [Código do enunciado](/SistemaBancario);
+
